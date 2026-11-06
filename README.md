@@ -1,5 +1,8 @@
 # keylock
 
+> Moved to [`github.com/cplieger/go/keylock`](https://github.com/cplieger/go/tree/dev/keylock).
+> **Archived 2026-11-06. This repository is read-only. The published Go module stays available.**
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/cplieger/keylock.svg)](https://pkg.go.dev/github.com/cplieger/keylock) [![Go version](https://img.shields.io/github/go-mod/go-version/cplieger/keylock)](https://github.com/cplieger/keylock/blob/main/go.mod)
 
 keylock gives your Go code one lock per key, so work on one file, user or record waits for itself while work on other keys runs.
